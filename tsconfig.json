@@ -17,16 +17,11 @@
         "declaration": true,
         "outDir": "dist",
         "types": [
-            "dotenv",
+            "node",
             "jest",
-            "node"
+            "dotenv"
         ]
     },
-    "exclude": [
-        "./node_modules",
-        "./**/*.test.ts",
-        "./**/*.spec.ts"
-    ],
     "include": [
         "./src/**/*.ts"
     ]
