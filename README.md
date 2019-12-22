@@ -5,7 +5,7 @@ TypeScript + Jest**.
 
 ### NPM Scripts included
 
-- ### Jest test
+-   ### Jest test
 
 ```bash
 # run tests with coverage
@@ -15,7 +15,7 @@ $ npm test
 $ npm run test:watch
 ```
 
-- ### Build TS Code
+-   ### Build TS Code
 
 ```bash
 # Build Typescript to javascript at dist folder (check tsconfig.json)
@@ -25,7 +25,7 @@ $ npm run build
 $ npm run build:watch
 ```
 
-- ### Run code with ts-node
+-   ### Run code with ts-node
 
 ```bash
 $ npm start
