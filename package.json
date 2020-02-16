@@ -1,6 +1,6 @@
 {
-  "name": "ts-node-base",
-  "version": "0.0.1",
+  "name": "node-boilerplate",
+  "version": "1.0.0",
   "description": "Typescript NodeJS base boilerplate project.",
   "main": "dist/index.js",
   "scripts": {
@@ -20,9 +20,9 @@
   "author": "SimpliRoute Developers <developers@simpliroute.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/SimpliRoute/ts-node-base.git/issues"
+    "url": "https://github.com/SimpliRoute/node-boilerplate.git/issues"
   },
-  "homepage": "https://github.com/SimpliRoute/ts-node-base.git#readme",
+  "homepage": "https://github.com/SimpliRoute/node-boilerplate.git#readme",
   "devDependencies": {
     "@types/jest": "25.1.2",
     "@types/node": "13.7.1",
